@@ -1,0 +1,20 @@
+Commands to run the my_game:
+
+go down
+get torch
+read note
+go south
+get sword
+go north
+go down
+light torch
+go down
+attack skeleton with sword
+get key
+go up
+go up
+go east
+unlock treasure
+go east
+steal necklace
+
